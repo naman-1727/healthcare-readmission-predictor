@@ -5,7 +5,7 @@ A machine learning app that predicts the risk of hospital readmission
 within 30 days for diabetic patients.
 
 ## Live App
-[Click here to try it](your-streamlit-url)
+[Click here to try it](https://healthcare-readmission-predictor-8jxakxmchmke7sfbckafw9.streamlit.app/)
 
 ## Built With
 - Python, Pandas, Scikit-learn, Streamlit
